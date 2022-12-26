@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @m-litvinov
-- 👀 I’m interested in Science, Space, Biology and ML 
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on biotech projects 
+- 👋 Hi, I’m Mike, data analyst in Yandex.
+- 👀 I’m interested in Science, Space, Biology and ML.
+- 🌱 I’m currently learning Bioinformatics and how to use algorithms in biology and healthcare.
+- 💞️ I’m looking to collaborate on biotech projects
 - 📫 Telegram: @litvinov_m
